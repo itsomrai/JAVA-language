@@ -1,5 +1,5 @@
 import java.util.*;
-public class SumOdd {
+public class sumOddNo {
     public static void main(String[] args) {
         int sum=0;
         Scanner sc=new Scanner(System.in);

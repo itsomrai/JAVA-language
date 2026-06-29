@@ -24,6 +24,6 @@ public class specialCount {
         System.out.println("POSTIVE NUMBERS: "+c_pos);
         System.out.println("NEGETIVE NUMBERS: "+c_neg);
         System.out.println("ZERO NUMBERS: "+c_zero);
-        sc.close();
+        sc.close(); 
     }
 }

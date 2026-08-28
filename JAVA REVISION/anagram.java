@@ -1,7 +1,7 @@
 public class anagram {
     public static void main(String[] args) {
         String s="listen";
-        String s1="silentt";
+        String s1="silent";
 
         if(s.length()!=s1.length()){
             System.out.println("not a anagram");

@@ -1,4 +1,4 @@
-public class maxSubArrayBetterSol {
+public class maxSubarrayBettSoln {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6};
         int k=10;
@@ -17,3 +17,4 @@ public class maxSubArrayBetterSol {
         System.out.println(maxLength);
     }
 }
+
